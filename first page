@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link scr="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <script type="text/javascript" src="script.js"></script>
+
+        <title>index</title>
+    </head>
+    
+    <body>
+        <div class="container-fluid">
+            <ul class="fly-in-text hidden">
+                <li>S</li>
+                <li>T</li>
+                <li>E</li>
+                <li>P</li>
+                <li>H</li>
+                <li>E</li>
+                <li>N</li>
+            </ul>
+        </div>
+
+        <div class="container-fluid">
+            <ul class="hate hidden">
+                <li>C</li>
+                <li>H</li>
+                <li>O</li>
+                <li>I</li>
+            </ul>
+        </div>
+
+<div class="container fliud">
+    <div>
+        <p id="about-me"> About Me </p>
+    </div>
+        
+</div>
+
+
+
+
+    </body>
+</html>
